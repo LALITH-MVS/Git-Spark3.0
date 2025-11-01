@@ -9,4 +9,12 @@ class Spark{
     {
         System.out.println("hello mr lalith");
     }
+    public void hi()
+    {
+        System.out.println("hi");
+    }
+    public void notification()
+    {
+        System.out.println("helo user");
+    }
 }
