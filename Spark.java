@@ -17,4 +17,9 @@ class Spark{
     {
         System.out.println("helo user");
     }
+
+    public void authentication()
+    {
+        System.out.println("auth");
+    }
 }
