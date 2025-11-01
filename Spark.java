@@ -7,11 +7,11 @@ class Spark{
     }
     public void hello()
     {
-        System.out.println("erripuku");
+        System.out.println("erripuku likith");
     }
     public void hi()
     {
-        System.out.println("hi");
+        System.out.println("hi Rohit Sharma");
     }
     public void notification()
     {
